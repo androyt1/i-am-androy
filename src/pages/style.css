@@ -1,0 +1,28 @@
+.bg{
+    background-image: linear-gradient(
+        45deg,
+        hsl(240deg 100% 20%) 0%,
+        rgb(0, 49, 112) 10%,
+        rgb(0, 115, 168) 20%,
+        rgb(32, 9, 112) 30%,
+        rgb(0, 66, 110) 40%,
+        rgba(14, 56, 243, 0.548) 50%,
+        rgba(10, 73, 245, 0.945) 60%,
+        rgb(62, 41, 255) 70%,
+        rgb(55, 0, 255) 80%,
+        rgb(12, 40, 94) 90%,
+        rgb(4, 1, 12) 100%
+);
+border-radius:5% 95% 93% 7% / 0% 100% 0% 100%    ;
+}
+
+.bg2{
+    background-image: url('./images/me.png');
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.bg3{
+    background-image: linear-gradient(rgba(15, 9, 49, 0),rgba(12, 5, 49, 0.644));
+}
